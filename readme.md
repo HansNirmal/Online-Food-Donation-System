@@ -32,39 +32,62 @@
 -----------------------------------------------------------------
 <h3>Contributing:</h3>
 
-<h4><u>Backend and Frontend Functions</u></h4>
-<p><b>Admin Function: Ijan Gaweshada</p>
+<h4>Hansaka Wickramsinghe</h4>
+<ol>
+	<li>Volunteer Function</li>
+	<li>System Design</li>
+	<li>UI/UX Design</li>
+</ol>
 
-<p><b>Organization Function: Rushanth B.</p>
+<h4>Rushanth B.</h4>
+<ol>
+	<li>Organization Function</li>
+	<li>JWT Authentication</li>
+	<li>Signup/Login Systems</li>
+</ol>
 
-<p><b>Donor Function: Abiramy V.</p>
+<h4>Abiramy V.</h4>
+<ol>
+	<li>Donor Function</li>
+</ol>
 
-<p><b>Volunteer Function: Hansaka Wickramasinghe</p>
+<h4>Ijan Gaweshada</h4>
+<ol>
+	<li>Admin Function</li>
+</ol>
 
-<h4><u>System Design: Hansaka Wickramasinghe</u></h4>
 
-<h4><u>UI/UX Design: Hansaka Wickramasinghe</u></h4>
-
-<h4><u>Login/Sign Up: Rushanth B.</u></h4>
-
-<h4><u>JWT Authentication: Rushanth B.</u></h4>
 
 -----------------------------------------------------------------
 
 <h3>Contact Information:</h3>
 
-<h4><u>Ijan Gaweshada</u></h4>
-<p>Contact Number: +94 77 689 3983</p>
-<p>Email Address: gaweshada@gmail.com</p>
-<p></p>
-<h4><u>Rushanth B.</u></h4>
-<p>Contact Number: +94 76 171 1675</p>
-<p>Email Address: rushanth9999@gmail.com</p>
-<p></p>
 <h4><u>Abiramy V.</u></h4>
-<p></p>Contact Number: +94 77 368 8981
-<p></p>Email Address: abiabira0204@gmail.com
-<p></p>
+<ol>
+	<li>Contact Number: +94 77 368 8981</li>
+	<li>Email Address: abiabira0204@gmail.com</li>
+</ol>
+
 <h4><u>Hansaka Wickramsinghe</u></h4>
-<p>Contact Number: +94 77 848 4599</p>
-<p>Email Address: hansakanirmal@gmail.com</p>
+<ol>
+	<li>Contact Number: +94 77 848 4599</li>
+	<li>Email Address: hansakanirmal@gmail.com</li>
+</ol>
+
+<h4><u>Ijan Gaweshada</u></h4>
+<ol>
+	<li>Contact Number: +94 77 689 3983</li>
+	<li>Email Address: gaweshada@gmail.com</li>
+</ol>
+
+<h4><u>Rushanth B.</u></h4>
+<ol>
+	<li>Contact Number: +94 76 171 1675</li>
+	<li>Email Address: rushanth9999@gmail.com</li>
+</ol>
+
+
+
+
+
+
