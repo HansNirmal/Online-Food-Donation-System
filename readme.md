@@ -5,21 +5,21 @@
 
 <h3>Main Functions:</h3>
 
-1) Admin Function
-2) Organization Function
-3) Donor Function
-4) Volunteer Function
+<p>1) Admin Function</p>
+<p>2) Organization Function</p>
+<p>3) Donor Function</p>
+<p>4) Volunteer Function</p>
 
 <h3>Technologies Used:</h3>
 
 <h4>MERN Stack</h4>
-	Frontend : React.js
-	Backend : Node.js and Express.js
-	Database : MongoDB
+	<p><b>Frontend : </b>React.js</p>
+	<p><b>Backend : </b>Node.js and Express.js</p>
+	<p><b>Database : </b>MongoDB</p>
 
 <h4>Dependencies :</h4> 
-	React-Router-Dom
-	Axios
+	<p>React-Router-Dom</p>
+	<p>Axios</p>
 
 <h4>JWT Authentication<h4>
 
