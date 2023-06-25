@@ -3,22 +3,25 @@
 <h3>Project Description:</h3>
 <p>A Webapp based Online Food Donation System Developed with providing a solution to the food crisis in Sri Lanka caused by its ongoing Economic Crisis (2021-Present)</p>
 
-Main Functions:
+<h3>Main Functions:</h3>
 
-Admin Function
-Organization Function
-Donor Function
-Volunteer Function
+1) Admin Function
+2) Organization Function
+3) Donor Function
+4) Volunteer Function
 
-Technologies Used: 
+<h3>Technologies Used:</h3>
 
-MERN Stack
+<h4>MERN Stack</h4>
 	Frontend : React.js
 	Backend : Node.js and Express.js
 	Database : MongoDB
 
-Dependencies : React-Router-Dom,Axios
-JWT Authentication
+<h4>Dependencies :</h4> 
+	React-Router-Dom
+	Axios
+
+<h4>JWT Authentication<h4>
 
 
 Contributing:
