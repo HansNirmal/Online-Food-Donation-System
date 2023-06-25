@@ -1,8 +1,7 @@
-<h1>Project Title:</h1>
-<b>Online Food Donation System</b>
+<h3>Project Title: Online Food Donation System</h3>
 
-Project Description:
-A Webapp based Online Food Donation System Developed with providing a solution to the food crisis in Sri Lanka caused by its ongoing Economic Crisis (2021-Present)
+<h3>Project Description:</h3>
+<p>A Webapp based Online Food Donation System Developed with providing a solution to the food crisis in Sri Lanka caused by its ongoing Economic Crisis (2021-Present)</p>
 
 Main Functions:
 
