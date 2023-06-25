@@ -52,6 +52,7 @@ Contributor: Hansaka Wickramasinghe
 <h4><u>JWT Authentication</u>u></h4> 
 <p>Contributor - Rushanth B</p>
 
+-----------------------------------------------------------------
 
 <h3>Contact Information:</h3>
 
