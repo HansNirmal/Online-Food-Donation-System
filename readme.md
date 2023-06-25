@@ -33,29 +33,21 @@
 <h3>Contributing:</h3>
 
 <h4><u>Backend and Frontend Functions</u></h4>
-<p><b>Admin Function:</b></p> 
-<p>Contributor - Ijan Gaweshada</p>
+<p><b>Admin Function: Ijan Gaweshada</p>
 
-<p><b>Organization Function:</b></p>
-<p>Contributor - Rushanth B.</p>
+<p><b>Organization Function: Rushanth B.</p>
 
-<p><b>Donor Function</b></p>
-<p>Contributor - Abiramy V.</p>
+<p><b>Donor Function: Abiramy V.</p>
 
-<p><b>Volunteer Function</b></p>
-Contributor: Hansaka Wickramasinghe
+<p><b>Volunteer Function: Hansaka Wickramasinghe</p>
 
-<h4><u>System Design</u></h4>
-<p>Contributors - Hansaka Wickramasinghe</p>
+<h4><u>System Design: Hansaka Wickramasinghe</u></h4>
 
-<h4><u>UI/UX Design</u></h4> 
-<p>Contributor - Hansaka Wickramasinghe</p>
+<h4><u>UI/UX Design: Hansaka Wickramasinghe</u></h4>
 
-<h4><u>Login/Sign Up</u></h4>
-<p>Contributors - Rushanth B</p>
+<h4><u>Login/Sign Up: Rushanth B.</u></h4>
 
-<h4><u>JWT Authentication</u>u></h4> 
-<p>Contributor - Rushanth B</p>
+<h4><u>JWT Authentication: Rushanth B.</u></h4>
 
 -----------------------------------------------------------------
 
